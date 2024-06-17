@@ -1,0 +1,27 @@
+#txt{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+#text{
+    margin-top: 170px;
+    font-weight: bold;
+}
+
+@media only screen  and (max-width: 640px) {
+    #txt{
+        font-size: 50px;
+    }
+}
+
+#content{
+    font-weight: bold;
+}
+
+#field{
+    font-weight: bold;
+}
+
+#img{
+    padding: 50px;
+}
